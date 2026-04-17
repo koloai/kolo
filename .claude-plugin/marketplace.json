@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "kolo",
-      "source": ".",
+      "source": "./",
       "description": "Kolo is a text-based Python debugger for AI agents. Capture every executed function, return value, local variable, HTTP request, and SQL query into greppable trace files.",
       "homepage": "https://kolo.app",
       "repository": "https://github.com/koloai/kolo",
